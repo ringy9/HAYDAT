@@ -392,5 +392,18 @@
     "button_text": "الانضمام للقناة",
     "button_url": "https://t.me/Ilyas_tv_live",
     "dont_show_again_text": "عدم الإظهار مرة أخرى"
+  },
+    "support_card": {
+    "enabled": true,
+    "title": "شكراً لدعمك",
+    "message": "لدعم التطبيق، شاركه مع 5 من أصدقائك أو قيّمه ب5 نجوم",
+    "rate_button": "تقييم التطبيق",
+    "share_button": "مشاركة التطبيق",
+    "store_url": "https://play.google.com/store/apps/details?id=com.haydat.sa3adalive",
+    "shine_enabled": true,
+    "background_image_url": "https://github.com/ringy9/pic/blob/main/rateusapp.png?raw=true",
+    "pulse_enabled": true,
+    "pulse_scale": 1.07,
+    "pulse_duration_ms": 3400
   }
 }
