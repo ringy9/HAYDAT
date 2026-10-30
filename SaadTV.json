@@ -137,7 +137,28 @@
     "allow_default_stream_for_all": true,
     "default_match_image": "https://i.postimg.cc/NMGmKHd6/Chat-GPT-Image-Aug-9-2026-01-38-53-PM.png"
   },
-  "fixture_streams": [],
+  "fixture_streams": [
+  {
+    "fixture_id": 1552801,
+    "servers": [
+      {
+        "name": "السيرفر 1",
+        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
+        "type": "hls"
+      },
+      {
+        "name": "السيرفر 2",
+        "url": "https://live.notioncraft.studio/bein2/index.m3u8",
+        "type": "hls"
+      },
+      {
+        "name": "السيرفر 3",
+        "url": "https://live.notioncraft.studio/bein3/index.m3u8",
+        "type": "hls"
+      }
+    ]
+  }
+],
   "ads": [
     {
       "id": "ad1",
