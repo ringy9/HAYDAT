@@ -135,26 +135,18 @@
     "app_token": "",
     "dynamic_streams_enabled": true,
     "allow_default_stream_for_all": true,
-    "default_match_image": "https://i.postimg.cc/NMGmKHd6/Chat-GPT-Image-Aug-9-2026-01-38-53-PM.png"
+    "default_match_image": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true"
   },
   "fixture_streams": [
   {
     "fixture_id": 1552801,
+    "match_label": "لوهافر ضد باريس سان جيرمان",
+    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
     "servers": [
       {
         "name": "السيرفر 1",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
-        "type": "hls"
-      },
-      {
-        "name": "السيرفر 2",
-        "url": "https://live.notioncraft.studio/bein2/index.m3u8",
-        "type": "hls"
-      },
-      {
-        "name": "السيرفر 3",
-        "url": "https://live.notioncraft.studio/bein3/index.m3u8",
-        "type": "hls"
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4"
       }
     ]
   }
