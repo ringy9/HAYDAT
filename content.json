@@ -1,0 +1,198 @@
+{
+  "maintenance": {
+    "enabled": false,
+    "title": "التطبيق تحت الصيانة",
+    "message": "نقوم بتحسينات مهمة، سنعود قريباً جداً.",
+    "button_text": "قناة تيليغرام",
+    "button_url": ""
+  },
+  "update": {
+    "enabled": false,
+    "force_update": false,
+    "latest_version_code": 2,
+    "latest_version_name": "1.1.0",
+    "title": "تحديث جديد متاح",
+    "message": "يتوفر إصدار جديد بتحسينات في الأداء وميزات جديدة.",
+    "update_button_text": "تحديث الآن",
+    "later_button_text": "لاحقاً",
+    "update_url": "https://play.google.com/store/apps/details?id=com.saadlive.app",
+    "show_every_launch": true
+  },
+  "telegram_popup": {
+    "enabled": false,
+    "id": "1",
+    "show_once": true,
+    "delay_seconds": 2,
+    "title": "📢 انضم إلى قناتنا على تيليغرام",
+    "message": "تابع آخر التحديثات والروابط أولاً بأول.",
+    "button_text": "الانضمام للقناة",
+    "button_url": "https://t.me/YOUR_CHANNEL",
+    "dont_show_again_text": "عدم الإظهار مرة أخرى"
+  },
+  "announcement": {
+    "enabled": true,
+    "id": "welcome-1",
+    "text": "🔥 مرحباً بكم في SAAD LIVE — كل المباريات مباشرة في مكان واحد",
+    "url": "",
+    "color": "red",
+    "dismissible": true
+  },
+  "exit_dialog": {
+    "enabled": true,
+    "title": "هل تريد الخروج؟",
+    "message": "هل أنت متأكد أنك تريد إغلاق التطبيق؟",
+    "exit_button_text": "خروج",
+    "cancel_button_text": "إلغاء"
+  },
+  "support_card": {
+    "enabled": true,
+    "title": "شكراً لدعمك",
+    "message": "لدعم التطبيق، شاركه مع أصدقائك أو قيّمه حسب تجربتك",
+    "rate_button": "تقييم التطبيق",
+    "share_button": "مشاركة التطبيق"
+  },
+  "features": {
+    "highlights_tab": true,
+    "leagues_tab": true,
+    "news_tab": true,
+    "live_now_section": true,
+    "watch_button": true
+  },
+  "football": {
+    "league_ids": [
+      2,
+      39,
+      140,
+      135,
+      78,
+      61,
+      200,
+      307,
+      233,
+      12,
+      3,
+      848,
+      1,
+      6
+    ],
+    "live_refresh_seconds": 30
+  },
+  "links": {
+    "telegram": "",
+    "privacy": "",
+    "store_url": "",
+    "share_text": "تابع كل المباريات مباشرة على SAAD LIVE 🔥"
+  },
+  "streams": [
+    {
+      "fixtureId": 1208021,
+      "sources": [
+        {
+          "name": "سيرفر 1",
+          "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+          "type": "hls",
+          "quality": "1080p"
+        },
+        {
+          "name": "سيرفر 2",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "quality": "720p",
+          "headers": {
+            "Referer": "https://example.com/",
+            "User-Agent": "Mozilla/5.0"
+          }
+        }
+      ]
+    }
+  ],
+  "defaultSources": [
+    {
+      "name": "سيرفر احتياطي",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "type": "hls",
+      "quality": "Auto"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "ملخص المباراة: هدف في الدقيقة الأخيرة يقلب الموازين",
+      "thumbnail": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "type": "hls",
+      "durationSec": 596,
+      "league": "دوري أبطال أوروبا",
+      "publishedAt": "2026-11-05T21:30:00Z",
+      "featured": true
+    },
+    {
+      "id": "h2",
+      "title": "كل أهداف الجولة في أقل من 10 دقائق",
+      "thumbnail": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "type": "mp4",
+      "durationSec": 653,
+      "league": "الدوري الإنجليزي الممتاز",
+      "publishedAt": "2026-11-05T19:00:00Z",
+      "featured": true
+    },
+    {
+      "id": "h3",
+      "title": "أجمل لقطات الأسبوع: مهارات وتصديات",
+      "thumbnail": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "type": "mp4",
+      "durationSec": 888,
+      "league": "الدوري الإسباني",
+      "publishedAt": "2026-11-05T15:00:00Z",
+      "featured": true
+    },
+    {
+      "id": "h4",
+      "title": "ملخص ديربي الدار البيضاء",
+      "thumbnail": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "type": "mp4",
+      "durationSec": 734,
+      "league": "البطولة الاحترافية المغربية",
+      "publishedAt": "2026-11-04T22:00:00Z",
+      "featured": false
+    }
+  ],
+  "news": [
+    {
+      "id": "n1",
+      "title": "كيف تقرأ جدول الترتيب مثل المحترفين؟",
+      "summary": "فارق الأهداف، المواجهات المباشرة، ومناطق التأهل: دليل سريع لفهم جدول الدوري.",
+      "content": "جدول الترتيب ليس مجرد نقاط. أول ما يجب النظر إليه هو عدد المباريات التي لعبها كل فريق.\n\nالعمود الثاني الأهم هو فارق الأهداف، فهو الذي يحسم التعادل في النقاط في أغلب الدوريات.\n\nانتبه أيضاً للألوان بجانب الترتيب: كل لون يمثل منطقة، من التأهل إلى الهبوط.",
+      "image": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg",
+      "source": "SAAD LIVE",
+      "category": "دليل",
+      "publishedAt": "2026-11-05T18:00:00Z",
+      "url": null
+    },
+    {
+      "id": "n2",
+      "title": "قانون التسلل بالتفصيل: متى يُحتسب ومتى لا؟",
+      "summary": "شرح مبسط لأشهر قانون يثير الجدل في كرة القدم.",
+      "content": "يُحتسب اللاعب متسللاً إذا كان أقرب إلى خط المرمى من الكرة ومن ثاني آخر مدافع لحظة لعب الكرة إليه، بشرط أن يشارك في اللعب.\n\nلا يوجد تسلل في ركلة المرمى أو رمية التماس أو الركنية.",
+      "image": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg",
+      "source": "SAAD LIVE",
+      "category": "قوانين",
+      "publishedAt": "2026-11-05T12:00:00Z",
+      "url": null
+    },
+    {
+      "id": "n3",
+      "title": "الضغط العالي: لماذا أصبح سلاح المدربين المفضل؟",
+      "summary": "نظرة على فلسفة الضغط العالي وكيف غيّرت شكل المباريات.",
+      "content": "الضغط العالي يعني استعادة الكرة في ثلث الملعب الأخير للخصم بدل التراجع والانتظار.\n\nهذا الأسلوب يتطلب لياقة عالية وتنسيقاً دقيقاً بين الخطوط.",
+      "image": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
+      "source": "SAAD LIVE",
+      "category": "تحليل",
+      "publishedAt": "2026-11-04T20:00:00Z",
+      "url": null
+    }
+  ]
+}
