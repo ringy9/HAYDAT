@@ -124,7 +124,7 @@
         "meta"
       ],
       "every_n_clicks": 3,
-      "min_interval_seconds": 60,
+      "min_interval_seconds": 0,
       "before_player": true
     },
     "native": {
@@ -244,6 +244,7 @@
     "mode": "internal",
     "inline": true,
     "autoplay": false,
+    "countdown": true,
     "show_play_minutes_before": 30,
     "default_thumbnail": "",
     "external_package": "com.ilyas.playerpro"
