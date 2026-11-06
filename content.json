@@ -241,7 +241,7 @@
     }
   },
   "player": {
-    "mode": "external",
+    "mode": "internal",
     "inline": true,
     "autoplay": false,
     "countdown": false,
