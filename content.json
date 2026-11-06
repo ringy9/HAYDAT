@@ -241,12 +241,12 @@
     }
   },
   "player": {
-    "mode": "internal",
+    "mode": "external",
     "inline": true,
     "autoplay": false,
-    "countdown": true,
+    "countdown": false,
     "show_play_minutes_before": 30,
-    "default_thumbnail": "",
+    "default_thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
     "external_package": "com.ilyas.playerpro"
   },
   "streams": [
