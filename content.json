@@ -83,6 +83,162 @@
     "store_url": "",
     "share_text": "تابع كل المباريات مباشرة على SAAD LIVE 🔥"
   },
+  "ads": {
+    "enabled": true,
+    "test_mode": true,
+    "consent_enabled": true,
+    "admob": {
+      "enabled": true,
+      "banner_id": "ca-app-pub-9297113109682195/7295932436",
+      "interstitial_id": "ca-app-pub-9297113109682195/9572787583",
+      "native_id": "ca-app-pub-9297113109682195/2149628525",
+      "app_open_id": "ca-app-pub-9297113109682195/3356687426",
+      "rewarded_id": ""
+    },
+    "levelplay": {
+      "enabled": true,
+      "app_key": "269c9a18d",
+      "banner_id": "80b1bb6g3lwuxv43",
+      "interstitial_id": "bgefeaxzw0yf1mwo",
+      "rewarded_id": "da761sxxpw9787hv"
+    },
+    "meta": {
+      "enabled": true,
+      "banner_id": "3185030118346765_3208500032666440",
+      "interstitial_id": "3185030118346765_3208500125999764",
+      "native_id": "3185030118346765_3208500202666423"
+    },
+    "banner": {
+      "enabled": true,
+      "networks": [
+        "admob",
+        "levelplay",
+        "meta"
+      ]
+    },
+    "interstitial": {
+      "enabled": true,
+      "networks": [
+        "admob",
+        "levelplay",
+        "meta"
+      ],
+      "every_n_clicks": 3,
+      "min_interval_seconds": 60,
+      "before_player": true
+    },
+    "native": {
+      "enabled": true,
+      "networks": [
+        "admob",
+        "meta"
+      ],
+      "every_n_items": 4
+    },
+    "app_open": {
+      "enabled": true,
+      "on_start": true,
+      "on_resume": true,
+      "min_interval_seconds": 120
+    },
+    "rewarded": {
+      "enabled": false,
+      "networks": [
+        "admob",
+        "levelplay"
+      ],
+      "gate_streams": true,
+      "title": "شاهد إعلاناً قصيراً",
+      "message": "شاهد إعلاناً قصيراً لفتح البث المباشر مجاناً.",
+      "button_text": "مشاهدة الإعلان"
+    }
+  },
+  "notifications": {
+    "enabled": true,
+    "kickoff": true,
+    "goals": true,
+    "full_time": true,
+    "poll_interval_minutes": 2,
+    "leagues": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "teams": [
+      33,
+      34,
+      40,
+      42,
+      47,
+      49,
+      50,
+      66,
+      529,
+      530,
+      531,
+      532,
+      533,
+      536,
+      541,
+      543,
+      487,
+      489,
+      492,
+      496,
+      497,
+      499,
+      505,
+      157,
+      165,
+      168,
+      173,
+      79,
+      80,
+      81,
+      85,
+      91
+    ],
+    "team_names": [
+      "Real Madrid",
+      "Barcelona",
+      "Atletico Madrid",
+      "Manchester City",
+      "Manchester United",
+      "Liverpool",
+      "Arsenal",
+      "Chelsea",
+      "Tottenham",
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "Paris Saint Germain",
+      "PSG",
+      "Inter",
+      "AC Milan",
+      "Juventus",
+      "Napoli",
+      "Al-Hilal Saudi FC",
+      "Al-Nassr",
+      "Al-Ittihad FC",
+      "Al-Ahli Jeddah",
+      "Al Ahly",
+      "Zamalek SC",
+      "Wydad AC",
+      "Raja Casablanca",
+      "Esperance Tunis",
+      "Al Ain",
+      "Al Sadd"
+    ],
+    "segment": "Total Subscriptions",
+    "texts": {
+      "kickoff_title": "🔴 انطلقت المباراة",
+      "kickoff_body": "{home} × {away} • {league}",
+      "goal_title": "⚽ هدف! {minute}'",
+      "goal_body": "{home} {hg} - {ag} {away}",
+      "final_title": "🏁 النتيجة النهائية",
+      "final_body": "{home} {hg} - {ag} {away} • {league}"
+    }
+  },
   "streams": [
     {
       "fixtureId": 1208021,
