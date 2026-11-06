@@ -9,17 +9,17 @@
   "update": {
     "enabled": false,
     "force_update": false,
-    "latest_version_code": 25,
-    "latest_version_name": "4.0.0",
+    "latest_version_code": 2,
+    "latest_version_name": "1.1.0",
     "title": "تحديث جديد متاح",
     "message": "يتوفر إصدار جديد بتحسينات في الأداء وميزات جديدة.",
     "update_button_text": "تحديث الآن",
     "later_button_text": "لاحقاً",
-    "update_url": "https://play.google.com/store/apps/details?id=com.yaminetv.ysntv",
+    "update_url": "https://play.google.com/store/apps/details?id=com.saadlive.app",
     "show_every_launch": true
   },
   "telegram_popup": {
-    "enabled": false,
+    "enabled": true,
     "id": "1",
     "show_once": true,
     "delay_seconds": 2,
@@ -35,7 +35,7 @@
     "text": "🔥 مرحباً بكم في SAAD LIVE — كل المباريات مباشرة في مكان واحد",
     "url": "",
     "color": "red",
-    "dismissible": true
+    "dismissible": false
   },
   "exit_dialog": {
     "enabled": true,
@@ -124,7 +124,7 @@
         "meta"
       ],
       "every_n_clicks": 3,
-      "min_interval_seconds": 60,
+      "min_interval_seconds": 0,
       "before_player": true
     },
     "native": {
@@ -155,7 +155,6 @@
   },
   "notifications": {
     "enabled": true,
-    "onesignal_app_id": "1e5c3e1b-ae69-478d-9ea6-fb16ec7da5dd",
     "kickoff": true,
     "goals": true,
     "full_time": true,
