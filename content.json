@@ -386,7 +386,7 @@
     "mode": "external",
     "inline": false,
     "autoplay": false,
-    "countdown": false,
+    "countdown": true,
     "show_play_minutes_before": 30,
     "default_thumbnail": "",
     "external_package": "com.ilyas.playerpro",
