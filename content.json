@@ -384,8 +384,8 @@
   },
   "player": {
     "mode": "external",
-    "inline": true,
-    "autoplay": true,
+    "inline": false,
+    "autoplay": false,
     "countdown": false,
     "show_play_minutes_before": 30,
     "default_thumbnail": "",
