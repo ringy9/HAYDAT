@@ -139,35 +139,18 @@
   },
   "fixture_streams": [
   {
-    "fixture_id": 1557475,
-    "match_label": "نيوكاسل ضد أرسنال",
-    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
-    "servers": [
-      {
-        "name": "السيرفر 1",
-        "url": "https://cdn-x-1.tofixtv.com/hls/bein1.m3u8",
-        "type": "m3u8"
-      },
-       {
-        "name": "السيرفر 2",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
-        "type": "m3u8"
-      }
-    ]
-  },
-  {
     "fixture_id": 1570461,
     "match_label": "ريال مدريد ضد سيلتا فيغو",
     "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
     "servers": [
       {
         "name": "السيرفر 1",
-        "url": "https://cdn-x-1.tofixtv.com/hls/bein1.m3u8",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
         "type": "m3u8"
       },
        {
         "name": "السيرفر 2",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
         "type": "m3u8"
       }
     ]
