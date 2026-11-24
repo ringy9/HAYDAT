@@ -139,8 +139,8 @@
   },
   "fixture_streams": [
   {
-    "fixture_id": 1570455,
-    "match_label": "برشلونة ضد فياريال",
+    "fixture_id": 1635641,
+    "match_label": "بودو غليمت ضد لاسك لينز",
     "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
     "servers": [
       {
@@ -148,12 +148,210 @@
         "url": "https://cdn-x-1.tofixtv.com/hls/bein1.m3u8",
         "type": "m3u8"
       },
-            {
+      {
         "name": "السيرفر 2",
         "url": "https://ylp.akhbarnewscdn.store/cdn/native/live1/index-timed.m3u8",
         "type": "m3u8"
       },
-            {
+      {
+        "name": "السيرفر 3",
+        "url": "https://balance.footballii.ir/hls2/bein1.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "fixture_id": 1635667,
+    "match_label": "غلطة سراي ضد أستون فيلا",
+    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
+    "servers": [
+      {
+        "name": "السيرفر 1",
+        "url": "https://cdn-x-1.tofixtv.com/hls/bein1.m3u8",
+        "type": "m3u8"
+      },
+      {
+        "name": "السيرفر 2",
+        "url": "https://ylp.akhbarnewscdn.store/cdn/native/live1/index-timed.m3u8",
+        "type": "m3u8"
+      },
+      {
+        "name": "السيرفر 3",
+        "url": "https://balance.footballii.ir/hls2/bein1.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "fixture_id": 1635611,
+    "match_label": "أرسنال ضد بوروسيا دورتموند",
+    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
+    "servers": [
+      {
+        "name": "السيرفر 1",
+        "url": "https://cdn-x-1.tofixtv.com/hls/bein1.m3u8",
+        "type": "m3u8"
+      },
+      {
+        "name": "السيرفر 2",
+        "url": "https://ylp.akhbarnewscdn.store/cdn/native/live1/index-timed.m3u8",
+        "type": "m3u8"
+      },
+      {
+        "name": "السيرفر 3",
+        "url": "https://balance.footballii.ir/hls2/bein1.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "fixture_id": 1635649,
+    "match_label": "كومو ضد أيك أثينا",
+    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
+    "servers": [
+      {
+        "name": "السيرفر 1",
+        "url": "https://cdn-x-1.tofixtv.com/hls/bein1.m3u8",
+        "type": "m3u8"
+      },
+      {
+        "name": "السيرفر 2",
+        "url": "https://ylp.akhbarnewscdn.store/cdn/native/live1/index-timed.m3u8",
+        "type": "m3u8"
+      },
+      {
+        "name": "السيرفر 3",
+        "url": "https://balance.footballii.ir/hls2/bein1.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "fixture_id": 1635663,
+    "match_label": "فينورد ضد بورتو",
+    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
+    "servers": [
+      {
+        "name": "السيرفر 1",
+        "url": "https://cdn-x-1.tofixtv.com/hls/bein1.m3u8",
+        "type": "m3u8"
+      },
+      {
+        "name": "السيرفر 2",
+        "url": "https://ylp.akhbarnewscdn.store/cdn/native/live1/index-timed.m3u8",
+        "type": "m3u8"
+      },
+      {
+        "name": "السيرفر 3",
+        "url": "https://balance.footballii.ir/hls2/bein1.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "fixture_id": 1635692,
+    "match_label": "مانشستر سيتي ضد نابولي",
+    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
+    "servers": [
+      {
+        "name": "السيرفر 1",
+        "url": "https://cdn-x-1.tofixtv.com/hls/bein1.m3u8",
+        "type": "m3u8"
+      },
+      {
+        "name": "السيرفر 2",
+        "url": "https://ylp.akhbarnewscdn.store/cdn/native/live1/index-timed.m3u8",
+        "type": "m3u8"
+      },
+      {
+        "name": "السيرفر 3",
+        "url": "https://balance.footballii.ir/hls2/bein1.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "fixture_id": 1635713,
+    "match_label": "لايبزيغ ضد لانس",
+    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
+    "servers": [
+      {
+        "name": "السيرفر 1",
+        "url": "https://cdn-x-1.tofixtv.com/hls/bein1.m3u8",
+        "type": "m3u8"
+      },
+      {
+        "name": "السيرفر 2",
+        "url": "https://ylp.akhbarnewscdn.store/cdn/native/live1/index-timed.m3u8",
+        "type": "m3u8"
+      },
+      {
+        "name": "السيرفر 3",
+        "url": "https://balance.footballii.ir/hls2/bein1.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "fixture_id": 1635715,
+    "match_label": "ريال مدريد ضد آيندهوفن",
+    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
+    "servers": [
+      {
+        "name": "السيرفر 1",
+        "url": "https://cdn-x-1.tofixtv.com/hls/bein1.m3u8",
+        "type": "m3u8"
+      },
+      {
+        "name": "السيرفر 2",
+        "url": "https://ylp.akhbarnewscdn.store/cdn/native/live1/index-timed.m3u8",
+        "type": "m3u8"
+      },
+      {
+        "name": "السيرفر 3",
+        "url": "https://balance.footballii.ir/hls2/bein1.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "fixture_id": 1635731,
+    "match_label": "سلوفان براتيسلافا ضد ريال بيتيس",
+    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
+    "servers": [
+      {
+        "name": "السيرفر 1",
+        "url": "https://cdn-x-1.tofixtv.com/hls/bein1.m3u8",
+        "type": "m3u8"
+      },
+      {
+        "name": "السيرفر 2",
+        "url": "https://ylp.akhbarnewscdn.store/cdn/native/live1/index-timed.m3u8",
+        "type": "m3u8"
+      },
+      {
+        "name": "السيرفر 3",
+        "url": "https://balance.footballii.ir/hls2/bein1.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "fixture_id": 1629988,
+    "match_label": "النصر ضد السد",
+    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
+    "servers": [
+      {
+        "name": "السيرفر 1",
+        "url": "https://cdn-x-1.tofixtv.com/hls/bein1.m3u8",
+        "type": "m3u8"
+      },
+      {
+        "name": "السيرفر 2",
+        "url": "https://ylp.akhbarnewscdn.store/cdn/native/live1/index-timed.m3u8",
+        "type": "m3u8"
+      },
+      {
         "name": "السيرفر 3",
         "url": "https://balance.footballii.ir/hls2/bein1.m3u8",
         "type": "m3u8"
