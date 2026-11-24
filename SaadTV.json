@@ -185,16 +185,16 @@
   {
     "fixture_id": 1635611,
     "match_label": "أرسنال ضد بوروسيا دورتموند",
-    "thumbnail": "http://primetv-ap.xubi.org/play/live.php?mac=00:1A:79:90:11:fc&stream=985130&extension=m3u8&play_token=",
+    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
     "servers": [
       {
         "name": "السيرفر 1",
-        "url": "http://primetv-ap.xubi.org/play/live.php?mac=00:1A:79:90:11:fc&stream=985130&extension=m3u8&play_token=",
+        "url": "https://iraqmaxpro.cc.cd/yacine/1427/0.m3u8",
         "type": "m3u8"
       },
       {
         "name": "السيرفر 2",
-        "url": "https://spe9.speedsuperai.cfd/sd2/pbdrgjqnvdju/index.html",
+        "url": "https://iraqmaxpro.cc.cd/iraq/bein4/1080.m3u8",
         "type": "m3u8"
       },
       {
@@ -255,12 +255,12 @@
     "servers": [
       {
         "name": "السيرفر 1",
-        "url": "http://primetv-ap.xubi.org/play/live.php?mac=00:1A:79:90:11:fc&stream=985129&extension=m3u8&play_token=",
+        "url": "https://iraqmaxpro.cc.cd/drama/live_tv_beinsport3.m3u8?s=HD",
         "type": "m3u8"
       },
       {
         "name": "السيرفر 2",
-        "url": "https://rap9.rapidbackend.shop/sd2/dytyxckrskmx/index.html",
+        "url": "https://iraqmaxpro.cc.cd/iraq/bein3/1080.m3u8",
         "type": "m3u8"
       },
             {
