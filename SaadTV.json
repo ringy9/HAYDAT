@@ -194,12 +194,12 @@
       },
       {
         "name": "السيرفر 2",
-        "url": "http://primetv-ap.xubi.org/play/live.php?mac=00:1A:79:90:11:fc&stream=985130&extension=m3u8&play_token=",
+        "url": "https://spe9.speedsuperai.cfd/sd2/pbdrgjqnvdju/index.html",
         "type": "m3u8"
       },
       {
         "name": "السيرفر 3",
-        "url": "https://balance.footballii.ir/hls2/bein1.m3u8",
+        "url": "https://balance.footballii.ir/hls2/bein4.m3u8",
         "type": "m3u8"
       }
     ]
@@ -259,6 +259,11 @@
         "type": "m3u8"
       },
       {
+        "name": "السيرفر 2",
+        "url": "https://rap9.rapidbackend.shop/sd2/dytyxckrskmx/index.html",
+        "type": "m3u8"
+      },
+            {
         "name": "السيرفر 2",
         "url": "http://re300.new-redirect.online/live/645587700/index.m3u8?t=wtM8wPCfHAnwgY8HFC_VPQ&e=1795561452",
         "type": "m3u8"
