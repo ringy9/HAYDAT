@@ -211,12 +211,12 @@
     "servers": [
       {
         "name": "السيرفر 1",
-        "url": "http://primetv-ap.xubi.org/play/live.php?mac=00:1A:79:90:11:fc&stream=985131&extension=m3u8&play_token=",
+        "url": "http://h43.cloudtalvo.buzz/live/610303030/index.m3u8?t=K_99mmEVIkKMqGqd8enesA&e=1795563700",
         "type": "m3u8"
       },
       {
         "name": "السيرفر 2",
-        "url": "http://primetv-ap.xubi.org/play/live.php?mac=00:1A:79:90:11:fc&stream=985131&extension=m3u8&play_token=",
+        "url": "http://h43.cloudtalvo.buzz/live/610303030/index.m3u8?t=K_99mmEVIkKMqGqd8enesA&e=1795563700",
         "type": "m3u8"
       },
       {
@@ -233,12 +233,12 @@
     "servers": [
       {
         "name": "السيرفر 1",
-        "url": "http://primetv-ap.xubi.org/play/live.php?mac=00:1A:79:90:11:fc&stream=985132&extension=m3u8&play_token=",
+        "url": "http://h53.cdnvolto.buzz/live/1515000000/index.m3u8?t=1lELSpDXxhxr97rpmZB1HQ&e=1795563831",
         "type": "m3u8"
       },
       {
         "name": "السيرفر 2",
-        "url": "http://primetv-ap.xubi.org/play/live.php?mac=00:1A:79:90:11:fc&stream=985132&extension=m3u8&play_token=",
+        "url": "http://h53.cdnvolto.buzz/live/1515000000/index.m3u8?t=1lELSpDXxhxr97rpmZB1HQ&e=1795563831",
         "type": "m3u8"
       },
       {
