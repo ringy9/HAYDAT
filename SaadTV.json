@@ -299,7 +299,7 @@
     "servers": [
       {
         "name": "السيرفر 1",
-        "url": "http://h34.fluxcrest.buzz/live/918454578001/index.m3u8?t=hKtav72v5aVkL3DQE5xdmw&e=1795560535",
+        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
         "type": "m3u8"
       },
       {
