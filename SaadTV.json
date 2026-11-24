@@ -343,7 +343,7 @@
     "servers": [
       {
         "name": "السيرفر 1",
-        "url": "http://primetv-ap.xubi.org/play/live.php?mac=00:1A:79:90:11:fc&stream=985128&extension=m3u8&play_token=",
+        "url": "http://h40.streamtenso.buzz/live/69854211/index.m3u8?t=vQnfkxEdboOOwc2vqPdEng&e=1795561185",
         "type": "m3u8"
       },
       {
