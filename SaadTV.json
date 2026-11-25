@@ -145,195 +145,20 @@
     "servers": [
       {
         "name": "السيرفر 1",
-        "url": "https://iraqmaxpro.cc.cd/iraq/bein3/1080.m3u8",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
         "type": "m3u8"
       },
       {
         "name": "السيرفر 2",
-        "url": "https://iraqmaxpro.cc.cd/drama/live_tv_beinsport3.m3u8?s=HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
         "type": "m3u8"
       },
       {
         "name": "السيرفر 3",
-        "url": "https://iraqmaxpro.cc.cd/iraq/bein3/1080.m3u8",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
         "type": "m3u8"
       }
-    ]
-  },
-  {
-    "fixture_id": 1635728,
-    "match_label": "سلافيا براغ ضد فياريال",
-    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
-    "servers": [
-      {
-        "name": "السيرفر 1",
-        "url": "https://iraqmaxpro.cc.cd/iraq/bein4/1080.m3u8",
-        "type": "m3u8"
-      },
-      {
-        "name": "السيرفر 2",
-        "url": "https://iraqmaxpro.cc.cd/drama/live_tv_beinsport4.m3u8?s=HD",
-        "type": "m3u8"
-      },
-      {
-        "name": "السيرفر 3",
-        "url": "https://iraqmaxpro.cc.cd/drama/live_tv_beinsport4.m3u8?s=HD",
-        "type": "m3u8"
-      }
-    ]
-  },
-  {
-    "fixture_id": 1635625,
-    "match_label": "أتلتيكو مدريد ضد فايكينغ",
-    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
-    "servers": [
-      {
-        "name": "السيرفر 1",
-        "url": "https://iraqmaxpro.cc.cd/iraq/bein6/1080.m3u8",
-        "type": "m3u8"
-      },
-      {
-        "name": "السيرفر 2",
-        "url": "https://iraqmaxpro.cc.cd/drama/live_tv_beinsport6.m3u8?s=HD",
-        "type": "m3u8"
-      },
-      {
-        "name": "السيرفر 3",
-        "url": "https://iraqmaxpro.cc.cd/drama/live_tv_beinsport6.m3u8?s=HD",
-        "type": "m3u8"
-      }
-    ]
-  },
-  {
-    "fixture_id": 1635642,
-    "match_label": "كلوب بروج ضد ليفربول",
-    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
-    "servers": [
-      {
-        "name": "السيرفر 1",
-        "url": "https://iraqmaxpro.cc.cd/iraq/bein3/1080.m3u8",
-        "type": "m3u8"
-      },
-      {
-        "name": "السيرفر 2",
-        "url": "https://iraqmaxpro.cc.cd/drama/live_tv_beinsport3.m3u8?s=HD",
-        "type": "m3u8"
-      },
-      {
-        "name": "السيرفر 3",
-        "url": "https://iraqmaxpro.cc.cd/iraq/bein3/1080.m3u8",
-        "type": "m3u8"
-      }
-    ]
-  },
-  {
-    "fixture_id": 1635673,
-    "match_label": "إنتر ميلان ضد شتوتغارت",
-    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
-    "servers": [
-      {
-        "name": "السيرفر 1",
-        "url": "https://iraqmaxpro.cc.cd/iraq/bein4/1080.m3u8",
-        "type": "m3u8"
-      },
-      {
-        "name": "السيرفر 2",
-        "url": "https://iraqmaxpro.cc.cd/drama/live_tv_beinsport4.m3u8?s=HD",
-        "type": "m3u8"
-      },
-      {
-        "name": "السيرفر 3",
-        "url": "https://iraqmaxpro.cc.cd/iraq/bein4/1080.m3u8",
-        "type": "m3u8"
-      }
-    ]
-  },
-  {
-    "fixture_id": 1635682,
-    "match_label": "ليل ضد بايرن ميونيخ",
-    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
-    "servers": [
-      {
-        "name": "السيرفر 1",
-        "url": "https://iraqmaxpro.cc.cd/iraq/bein5/1080.m3u8",
-        "type": "m3u8"
-      },
-      {
-        "name": "السيرفر 2",
-        "url": "https://iraqmaxpro.cc.cd/drama/live_tv_beinsport5.m3u8?s=HD",
-        "type": "m3u8"
-      },
-      {
-        "name": "السيرفر 3",
-        "url": "https://iraqmaxpro.cc.cd/iraq/bein5/1080.m3u8",
-        "type": "m3u8"
-      }
-    ]
-  },
-  {
-    "fixture_id": 1635703,
-    "match_label": "باريس سان جيرمان ضد روما",
-    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
-    "servers": [
-      {
-        "name": "السيرفر 1",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
-        "type": "m3u8"
-      },
-      {
-        "name": "السيرفر 2",
-        "url": "https://iraqmaxpro.cc.cd/drama/live_tv_beinsport1.m3u8?s=HD",
-        "type": "m3u8"
-      },
-      {
-        "name": "السيرفر 3",
-        "url": "https://iraqmaxpro.cc.cd/iraq/bein1/1080.m3u8",
-        "type": "m3u8"
-      }
-    ]
-  },
-  {
-    "fixture_id": 1635724,
-    "match_label": "شاختار دونيتسك ضد فنربخشة",
-    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
-    "servers": [
-      {
-        "name": "السيرفر 1",
-        "url": "https://iraqmaxpro.cc.cd/iraq/bein1/1080.m3u8",
-        "type": "m3u8"
-      },
-      {
-        "name": "السيرفر 2",
-        "url": "https://iraqmaxpro.cc.cd/yacine/1424/0.m3u8",
-        "type": "m3u8"
-      },
-      {
-        "name": "السيرفر 3",
-        "url": "https://iraqmaxpro.cc.cd/drama/live_tv_beinsport1.m3u8?s=HD",
-        "type": "m3u8"
-      }
-    ]
-  },
-  {
-    "fixture_id": 1635735,
-    "match_label": "سبورتينغ لشبونة ضد مانشستر يونايتد",
-    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
-    "servers": [
-      {
-        "name": "السيرفر 1",
-        "url": "https://iraqmaxpro.cc.cd/iraq/bein2/1080.m3u8",
-        "type": "m3u8"
-      },
-      {
-        "name": "السيرفر 2",
-        "url": "https://iraqmaxpro.cc.cd/drama/live_tv_beinsport2.m3u8?s=HD",
-        "type": "m3u8"
-      },
-      {
-        "name": "السيرفر 3",
-        "url": "https://iraqmaxpro.cc.cd/iraq/bein2/1080.m3u8",
-        "type": "m3u8"
-      }
+
     ]
   }
 ],
