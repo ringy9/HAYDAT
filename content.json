@@ -215,7 +215,7 @@
   },
   "ads": {
     "enabled": true,
-    "test_mode": true,
+    "test_mode": false,
     "consent_enabled": true,
     "admob": {
       "enabled": true,
