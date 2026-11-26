@@ -229,13 +229,13 @@
     },
     "ironsource": {
       "enabled": true,
-      "app_key": "27a27131d",
+      "app_key": "29ee7e7f5",
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": false,
-      "banner_ad_unit_id": "xez076xjj7pyzlek",
-      "interstitial_ad_unit_id": "17xhrw3tdj7txq6d",
-      "rewarded_ad_unit_id": "bwyvuijrhbfq11a7"
+      "banner_ad_unit_id": "3scapwiwb2u9shlq",
+      "interstitial_ad_unit_id": "pta5j805najcimxo",
+      "rewarded_ad_unit_id": "bljokx9rv2mscs88"
     },
     "meta": {
       "enabled": true,
@@ -246,13 +246,13 @@
     },
     "levelplay": {
       "enabled": true,
-      "app_key": "27a27131d",
+      "app_key": "29ee7e7f5",
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": false,
-      "banner_ad_unit_id": "xez076xjj7pyzlek",
-      "interstitial_ad_unit_id": "17xhrw3tdj7txq6d",
-      "rewarded_ad_unit_id": "bwyvuijrhbfq11a7",
+      "banner_ad_unit_id": "3scapwiwb2u9shlq",
+      "interstitial_ad_unit_id": "pta5j805najcimxo",
+      "rewarded_ad_unit_id": "bljokx9rv2mscs88",
       "mediated_networks": {
         "admob": {
           "enabled": true,
