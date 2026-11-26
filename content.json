@@ -219,11 +219,11 @@
     "consent_enabled": true,
     "admob": {
       "enabled": true,
-      "banner_id": "ca-app-pub-9297113109682195/7295932436",
-      "interstitial_id": "ca-app-pub-9297113109682195/9572787583",
-      "native_id": "ca-app-pub-9297113109682195/2149628525",
-      "app_open_id": "ca-app-pub-9297113109682195/3356687426",
-      "rewarded_id": ""
+      "banner_id": "ca-app-pub-9786019404931030/5271249689",
+      "interstitial_id": "ca-app-pub-9786019404931030/6855794097",
+      "native_id": "ca-app-pub-9786019404931030/1603467415",
+      "app_open_id": "ca-app-pub-9786019404931030/9018923001",
+      "rewarded_id": "ca-app-pub-9786019404931030/8772665948"
     },
     "levelplay": {
       "enabled": true,
