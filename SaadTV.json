@@ -294,10 +294,10 @@
       "enabled": true,
       "ready": true,
       "managed_by": "levelplay",
-      "app_id": "",
-      "banner_id": "",
-      "interstitial_id": "",
-      "rewarded_id": ""
+      "app_id": "6b0871e46a23e51f009b1345",
+      "banner_id": "BANNER-2623474",
+      "interstitial_id": "INTERSTITIAL-6777847",
+      "rewarded_id": "REWARDED-9965283"
     },
     "unity_ads": {
       "enabled": true,
