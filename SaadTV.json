@@ -138,30 +138,51 @@
     "default_match_image": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true"
   },
   "fixture_streams": [
-  {
-    "fixture_id": 1557485,
-    "match_label": "نوتنغهام فورست ضد تشيلسي",
-    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
-    "servers": [
-      {
-        "name": "السيرفر 1",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
-        "type": "m3u8"
-      },
-      {
-        "name": "السيرفر 2",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
-        "type": "m3u8"
-      },
-      {
-        "name": "السيرفر 3",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "m3u8"
-      }
-
-    ]
-  }
-],
+    {
+      "fixture_id": 1635715,
+      "match_label": "ريال مدريد ضد آيندهوفن",
+      "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
+      "servers": [
+        {
+          "name": "السيرفر 1",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "type": "m3u8"
+        },
+        {
+          "name": "السيرفر 2",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "type": "m3u8"
+        },
+        {
+          "name": "السيرفر 3",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "type": "m3u8"
+        }
+      ]
+    },
+    {
+      "fixture_id": 1557473,
+      "match_label": "ليفربول ضد مانشستر يونايتد",
+      "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
+      "servers": [
+        {
+          "name": "السيرفر 1",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "type": "m3u8"
+        },
+        {
+          "name": "السيرفر 2",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "type": "mp4"
+        },
+        {
+          "name": "السيرفر 3",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "type": "mp4"
+        }
+      ]
+    }
+  ],
   "ads": [
     {
       "id": "ad1",
@@ -192,7 +213,7 @@
     "icon": "",
     "update_button_text": "تحديث الآن",
     "later_button_text": "لاحقاً",
-    "update_url": "https://play.google.com/store/apps/details?id=com.lukyvero.yasstv",
+    "update_url": "https://play.google.com/store/apps/details?id=com.viviana.ilyastv",
     "show_every_launch": false
   },
   "exit_dialog": {
@@ -203,23 +224,22 @@
     "exit_button_text": "خروج",
     "cancel_button_text": "إلغاء",
     "show_native_ad": true,
-    "native_ad_network": "meta",
+    "native_ad_network": "admob",
     "native_ad_fallback_network": "admob"
   },
   "ads_config": {
     "enabled": true,
-    "default_network": "admob",
+    "default_network": "levelplay",
     "fallback_network": "admob",
     "admob": {
       "enabled": true,
-      "app_id": "ca-app-pub-9786019404931030~5874105718",
-      "banner_id": "ca-app-pub-9786019404931030/1035453799",
-      "interstitial_id": "ca-app-pub-9786019404931030/5521046604",
-      "native_id": "ca-app-pub-9786019404931030/8916319952",
-      "app_open_id": "ca-app-pub-9786019404931030/4861524874",
-      "rewarded_id": ""
+      "app_id": "ca-app-pub-8787914644651926~3583501144",
+      "banner_id": "ca-app-pub-8787914644651926/8003533549",
+      "interstitial_id": "ca-app-pub-8787914644651926/3969075291",
+      "native_id": "ca-app-pub-8787914644651926/5609460027",
+      "app_open_id": "ca-app-pub-8787914644651926/6227151514",
+      "rewarded_id": "ca-app-pub-8787914644651926/1067579787"
     },
-
     "max": {
       "enabled": false,
       "sdk_key": "YOUR_MAX_SDK_KEY",
@@ -228,14 +248,14 @@
       "native_id": "YOUR_MAX_NATIVE_ID"
     },
     "ironsource": {
-      "enabled": true,
-      "app_key": "29ee7e7f5",
+      "enabled": false,
+      "app_key": "29fa76095",
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": false,
-      "banner_ad_unit_id": "3scapwiwb2u9shlq",
-      "interstitial_ad_unit_id": "pta5j805najcimxo",
-      "rewarded_ad_unit_id": "bljokx9rv2mscs88"
+      "banner_ad_unit_id": "2cnaujic4mcx0999",
+      "interstitial_ad_unit_id": "n6pxrezl1fbq7x4v",
+      "rewarded_ad_unit_id": "845b4vblo0fq2tyu"
     },
     "meta": {
       "enabled": true,
@@ -246,13 +266,13 @@
     },
     "levelplay": {
       "enabled": true,
-      "app_key": "29ee7e7f5",
+      "app_key": "29fa76095",
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": false,
-      "banner_ad_unit_id": "3scapwiwb2u9shlq",
-      "interstitial_ad_unit_id": "pta5j805najcimxo",
-      "rewarded_ad_unit_id": "bljokx9rv2mscs88",
+      "banner_ad_unit_id": "j4prx6r81k8byr1m",
+      "interstitial_ad_unit_id": "bjesvszhhqxffl4t",
+      "rewarded_ad_unit_id": "b04bxgnpnu9vy6rf",
       "mediated_networks": {
         "admob": {
           "enabled": true,
@@ -294,16 +314,16 @@
       "enabled": true,
       "ready": true,
       "managed_by": "levelplay",
-      "app_id": "6b0871e46a23e51f009b1345",
-      "banner_id": "BANNER-2623474",
-      "interstitial_id": "INTERSTITIAL-6777847",
-      "rewarded_id": "REWARDED-9965283"
+      "app_id": "6b0a8186704187f495249487",
+      "banner_id": "BANNER-9597553",
+      "interstitial_id": "INTERSTITIAL-7088750",
+      "rewarded_id": "REWARDED-9527360"
     },
     "unity_ads": {
       "enabled": true,
       "ready": true,
       "managed_by": "levelplay",
-      "game_id_android": "6233586",
+      "game_id_android": "6234498",
       "banner_id": "Banner_Android",
       "interstitial_id": "Interstitial_Android",
       "rewarded_id": "Rewarded_Android"
@@ -311,8 +331,8 @@
     "placements": {
       "banner": {
         "enabled": true,
-        "network": "admob",
-        "fallback_network": "meta",
+        "network": "levelplay",
+        "fallback_network": "admob",
         "show_on": [
           "matches",
           "leagues",
@@ -329,19 +349,19 @@
       },
       "rewarded": {
         "enabled": true,
-        "network": "admob",
+        "network": "levelplay",
         "show_on_first_match_click": false,
         "wait_for_load_ms": 2500,
         "fallback_to_interstitial": false
       },
       "interstitial": {
         "enabled": true,
-        "network": "admob",
+        "network": "levelplay",
         "fallback_network": "admob",
         "first_click": true,
         "first_click_only": false,
-        "show_every_clicks": 3,
-        "min_seconds_between_ads": 0,
+        "show_every_clicks": 5,
+        "min_seconds_between_ads": 30,
         "show_on_clicks": [
           "match_click",
           "highlight_click",
@@ -353,7 +373,7 @@
       "native": {
         "enabled": true,
         "network": "admob",
-        "fallback_network": "meta",
+        "fallback_network": "admob",
         "player_preview": {
           "enabled": true,
           "position": "below_preview_image"
@@ -369,7 +389,7 @@
         "exit_dialog": {
           "enabled": true,
           "network": "admob",
-          "fallback_network": "meta"
+          "fallback_network": "admob"
         }
       },
       "app_open": {
@@ -417,20 +437,20 @@
     "button_url": "https://t.me/Ilyas_tv_live",
     "dont_show_again_text": "عدم الإظهار مرة أخرى"
   },
-    "support_card": {
+  "support_card": {
     "enabled": true,
     "title": "شكراً لدعمك",
     "message": "لدعم التطبيق، شاركه مع 5 من أصدقائك أو قيّمه ب5 نجوم",
     "rate_button": "تقييم التطبيق",
     "share_button": "مشاركة التطبيق",
-    "store_url": "https://play.google.com/store/apps/details?id=com.haydat.sa3adalive",
+    "store_url": "https://play.google.com/store/apps/details?id=com.viviana.ilyastv",
     "shine_enabled": true,
     "background_image_url": "https://github.com/ringy9/pic/blob/main/rateusapp.png?raw=true",
     "pulse_enabled": true,
     "pulse_scale": 1.07,
     "pulse_duration_ms": 3400
   },
-    "live_notifications": {
+  "live_notifications": {
     "enabled": true,
     "teams": [
       "Real Madrid",
